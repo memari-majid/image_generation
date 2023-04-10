@@ -6,7 +6,8 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif)
 ### GAN Loss Functions
-![GAN](https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png)
+<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400"/>
+
 ### VAE Loss Functions
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png)
 ### OCR Metrics
