@@ -15,7 +15,11 @@ This GitHub repository contains code and resources for a comparative analysis of
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
 
 ### OCR Metrics
-<img src="https://github.com/memari-majid/image_generation/blob/master/output/test_accuracy_vs_epoch.png" alt="test accuracy" width="400"/>
+<img src="https://github.com/memari-majid/image_generation/blob/master/output/accuracy.png" alt="test accuracy" width="400"/>
+<img src="https://github.com/memari-majid/image_generation/blob/master/output/F1.png" alt="test accuracy" width="400"/>
+<img src="https://github.com/memari-majid/image_generation/blob/master/output/precision.png" alt="precision" width="400"/>
+<img src="https://github.com/memari-majid/image_generation/blob/master/output/recall.png" alt="recall" width="400"/>
+
 
 ### GAN Runtime
 <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/elapsed_time_plot.png" alt="GAN" width="400"/>
