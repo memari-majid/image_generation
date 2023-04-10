@@ -45,9 +45,9 @@ Regarding computational speed, the main reason why VAEs can be faster than GANs 
 # Conclusion
 In conclusion, our study found that the Variational Autoencoder (VAE) model is more suitable for enhancing real-time OCR performance compared to Generative Adversarial Networks (GANs). This is primarily due to the speed of the VAE model, which is 10 times faster than GANs in generating synthetic images.
 
-Our study also introduced a novel evaluation metric, Low-dimensional Fréchet Inception Distance (LFID), which proved to be an accurate and efficient alternative to traditional FID scores for real-time monitoring of Generative training. Additionally, our analysis utilizing Saliency Maps demonstrated that the improvement in OCR performance is valid because the OCR system is utilizing unique features of the digits for classification.
+Our study also introduced a novel evaluation metric, Low-dimensional Fréchet Inception Distance (LFID), which proved to be an accurate and efficient alternative to traditional FID scores for real-time monitoring of image generation. Additionally, our analysis utilizing Saliency Maps demonstrated that the improvement in OCR performance is valid because the OCR system is utilizing unique features of the digits for classification.
 
-Overall, the proposed approach of combining Generative-based data augmentation techniques with novel evaluation metrics like LFID can significantly improve OCR performance in real-time applications, capable of handling challenges such as noise, distortions, and limited availability of training data. These findings can pave the way for the development of more advanced OCR systems, capable of handling a broader range of applications.
+Overall, the proposed approach of combining generative-based data augmentation techniques with novel evaluation metrics like LFID can significantly improve OCR performance in real-time applications, capable of handling challenges such as noise, distortions, and limited availability of training data. These findings can pave the way for the development of more advanced OCR systems, capable of handling a broader range of applications.
 ### Saliency Maps
 <img src="https://github.com/memari-majid/image_generation/blob/master/saliency_maps_cvae.png" alt="Saliency Maps" width="2000"/>
 
