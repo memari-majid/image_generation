@@ -30,5 +30,5 @@ GANs are based on an adversarial framework where two neural networks, the genera
 The generator tries to produce realistic samples, while the discriminator tries to distinguish between real and generated samples. They are trained iteratively to improve each other's performance.
 GAN training is often more difficult and unstable, as it requires careful balancing between the generator and discriminator.
 The generated samples from GANs tend to be sharper and more visually appealing, but they might not always cover the entire data distribution (i.e., mode collapse).
-### Why VAEs are faster than GANs
+### VAEs are faster than GANs
 Regarding computational speed, the main reason why VAEs can be faster than GANs is their training procedure. VAEs use backpropagation and can be trained with standard optimization algorithms, which leads to a more stable and straightforward training process. In contrast, GANs require the simultaneous training of two networks, and finding the right balance between the generator and discriminator can be challenging. The adversarial training process can be unstable and may require more iterations, hyperparameter tuning, or architectural adjustments to achieve satisfactory results.
