@@ -11,6 +11,12 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE Loss Functions
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
 
+<div style="display:flex;">
+  <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400" style="float:left;"/>
+  <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400" style="float:left;"/>
+</div>
+
+
 ### OCR Metrics
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/test_accuracy_vs_epoch.png" alt="test accuracy" width="400""/>
 
@@ -21,7 +27,7 @@ This GitHub repository contains code and resources for a comparative analysis of
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/elapsed_time_plot.png" alt="VAE" width="400"/>
 
 ### FID Scores
-<img src="https://github.com/memari-majid/image_generation/blob/master/output/fid_scores.png" alt="FID" width="400"/>
+<img src="https://github.com/memari-majid/image_generation/blob/master/output/fid_scores.png" alt="FID" width="800"/>
 
 # Interpretation
 ### Generative Models
