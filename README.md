@@ -41,6 +41,13 @@ GAN training is often more difficult and unstable, as it requires careful balanc
 The generated samples from GANs tend to be sharper and more visually appealing, but they might not always cover the entire data distribution (i.e., mode collapse).
 ### VAEs are faster than GANs
 Regarding computational speed, the main reason why VAEs can be faster than GANs is their training procedure. VAEs use backpropagation and can be trained with standard optimization algorithms, which leads to a more stable and straightforward training process. In contrast, GANs require the simultaneous training of two networks, and finding the right balance between the generator and discriminator can be challenging. The adversarial training process can be unstable and may require more iterations, hyperparameter tuning, or architectural adjustments to achieve satisfactory results.
+
+# Conclusion
+In conclusion, our study found that the Variational Autoencoder (VAE) model is more suitable for enhancing real-time OCR performance compared to Generative Adversarial Networks (GANs). This is primarily due to the speed of the VAE model, which is 10 times faster than GANs in generating synthetic images.
+
+Our study also introduced a novel evaluation metric, Low-dimensional Fréchet Inception Distance (LFID), which proved to be an accurate and efficient alternative to traditional FID scores for real-time monitoring of Generative training. Additionally, our analysis utilizing Saliency Maps demonstrated that the improvement in OCR performance is valid because the OCR system is utilizing unique features of the digits for classification.
+
+Overall, the proposed approach of combining Generative-based data augmentation techniques with novel evaluation metrics like LFID can significantly improve OCR performance in real-time applications, capable of handling challenges such as noise, distortions, and limited availability of training data. These findings can pave the way for the development of more advanced OCR systems, capable of handling a broader range of applications.
 ### Saliency Maps
 <img src="https://github.com/memari-majid/image_generation/blob/master/saliency_maps_cvae.png" alt="Saliency Maps" width="2000"/>
 
