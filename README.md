@@ -7,11 +7,11 @@ This GitHub repository contains code and resources for a comparative analysis of
 ![GAN](https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif)
 ### VAE
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif)
-### GAN Loss Functions
-<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400"/>
+## GAN Loss Functions
+<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400" style="float:left;"/>
 
-### VAE Loss Functions
-<img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
+## VAE Loss Functions
+<img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400" style="float:left;"/>
 
 ### OCR Metrics
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/test_accuracy_vs_epoch.png" alt="test accuracy" width="400"/>
