@@ -1,0 +1,10 @@
+epoch = 0, fid = 248.82
+epoch = 1, fid = 207.72
+epoch = 2, fid = 210.15
+epoch = 3, fid = 227.45
+epoch = 4, fid = 228.79
+epoch = 5, fid = 227.67
+epoch = 6, fid = 241.07
+epoch = 7, fid = 227.01
+epoch = 8, fid = 222.89
+epoch = 9, fid = 236.72

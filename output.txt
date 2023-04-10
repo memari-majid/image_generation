@@ -1,0 +1,139 @@
+Epoch=0
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.4246
+ACGAN precision: 0.4741
+ACGAN recall: 0.4246
+ACGAN F1 score: 0.3655
+CVAE test accuracy: 0.9173
+CVAE precision: 0.9193
+CVAE recall: 0.9173
+CVAE F1 score: 0.9174
+
+Epoch=1
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.3068
+ACGAN precision: 0.4656
+ACGAN recall: 0.3068
+ACGAN F1 score: 0.2707
+CVAE test accuracy: 0.9090
+CVAE precision: 0.9130
+CVAE recall: 0.9090
+CVAE F1 score: 0.9094
+
+Epoch=2
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.2653
+ACGAN precision: 0.2401
+ACGAN recall: 0.2653
+ACGAN F1 score: 0.1772
+CVAE test accuracy: 0.9097
+CVAE precision: 0.9161
+CVAE recall: 0.9097
+CVAE F1 score: 0.9099
+
+Epoch=3
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.3897
+ACGAN precision: 0.5198
+ACGAN recall: 0.3897
+ACGAN F1 score: 0.3347
+CVAE test accuracy: 0.9034
+CVAE precision: 0.9099
+CVAE recall: 0.9034
+CVAE F1 score: 0.9039
+
+Epoch=4
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.4226
+ACGAN precision: 0.6497
+ACGAN recall: 0.4226
+ACGAN F1 score: 0.3304
+CVAE test accuracy: 0.9153
+CVAE precision: 0.9213
+CVAE recall: 0.9153
+CVAE F1 score: 0.9159
+
+Epoch=5
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.4134
+ACGAN precision: 0.4264
+ACGAN recall: 0.4134
+ACGAN F1 score: 0.3510
+CVAE test accuracy: 0.9132
+CVAE precision: 0.9176
+CVAE recall: 0.9132
+CVAE F1 score: 0.9135
+
+Epoch=6
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.2738
+ACGAN precision: 0.3033
+ACGAN recall: 0.2738
+ACGAN F1 score: 0.1808
+CVAE test accuracy: 0.9203
+CVAE precision: 0.9233
+CVAE recall: 0.9203
+CVAE F1 score: 0.9202
+
+Epoch=7
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN datatest accuracy: 0.1112
+ACGAN precision: 0.0930
+ACGAN recall: 0.1112
+ACGAN F1 score: 0.0481
+CVAE test accuracy: 0.9085
+CVAE precision: 0.9110
+CVAE recall: 0.9085
+CVAE F1 score: 0.9080
+
+Epoch=8
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.1029
+ACGAN precision: 0.0350
+ACGAN recall: 0.1029
+ACGAN F1 score: 0.0260
+CVAE test accuracy: 0.9185
+CVAE precision: 0.9220
+CVAE recall: 0.9185
+CVAE F1 score: 0.9188
+
+Epoch=9
+Real test accuracy: 0.8592
+Real precision: 0.8939
+Real recall: 0.8592
+Real F1 score: 0.8658
+ACGAN test accuracy: 0.1684
+ACGAN precision: 0.0462
+ACGAN recall: 0.1684
+ACGAN F1 score: 0.0685
+CVAE test accuracy: 0.9111
+CVAE precision: 0.9153
+CVAE recall: 0.9111
+CVAE F1 score: 0.9111

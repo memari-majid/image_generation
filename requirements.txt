@@ -1,0 +1,5 @@
+NumPy
+pandas
+scikit-learn
+Matplotlib
+rq
