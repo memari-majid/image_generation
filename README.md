@@ -41,6 +41,20 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE Runtime
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/elapsed_time_plot.png" alt="VAE" width="400"/>
 
+<table>
+  <tr>
+    <td>
+      <h3>GAN Runtime</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/elapsed_time_plot.png" alt="GAN" width="400"/>
+    </td>
+    <td>
+      <h3>VAE Runtime</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/elapsed_time_plot.png" alt="VAE" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
 ### FID Scores
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/fid_scores.png" alt="FID" width="800"/>
 
