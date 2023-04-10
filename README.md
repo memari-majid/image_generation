@@ -8,13 +8,6 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif)
 
-### GAN Loss Functions
-<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400"/>
-
-### VAE Loss Functions
-<img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
-
-
 <table>
   <tr>
     <td>
