@@ -35,12 +35,6 @@ This GitHub repository contains code and resources for a comparative analysis of
 </table>
 
 
-### GAN Runtime
-<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/elapsed_time_plot.png" alt="GAN" width="400"/>
-
-### VAE Runtime
-<img src="https://github.com/memari-majid/image_generation/blob/master/cvae/elapsed_time_plot.png" alt="VAE" width="400"/>
-
 <table>
   <tr>
     <td>
