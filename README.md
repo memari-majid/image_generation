@@ -4,9 +4,9 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### Real
 ![Real](https://github.com/memari-majid/image_generation/blob/master/real.png)
 
-<div style="text-align:center;">
-    <img src="https://github.com/memari-majid/image_generation/blob/master/real.png" alt="Real" />
-</div>
+<center>
+  <img src="https://github.com/memari-majid/image_generation/blob/master/real.png" alt="Real" />
+</center>
 
 ### GAN
 ![GAN](https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif)
