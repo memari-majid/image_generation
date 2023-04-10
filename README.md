@@ -69,6 +69,69 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### FID Scores
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/fid_scores.png" alt="FID" width="800"/>
 
+<table>
+  <tr style="background-color: white;">
+    <td>
+      <h3>Real</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/real.png" alt="Real" />
+    </td>
+  </tr>
+  <tr style="background-color: white;">
+    <td>
+      <h3>GAN</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif" alt="GAN" />
+    </td>
+  </tr>
+  <tr style="background-color: white;">
+    <td>
+      <h3>VAE</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif" alt="VAE" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <h3>GAN Loss Functions</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400"/>
+    </td>
+    <td>
+      <h3>VAE Loss Functions</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h3>OCR Metrics</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memari-majid/image_generation/blob/master/output/accuracy.png" alt="test accuracy" width="400"/></td>
+    <td><img src="https://github.com/memari-majid/image_generation/blob/master/output/F1.png" alt="test accuracy" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memari-majid/image_generation/blob/master/output/precision.png" alt="precision" width="400"/></td>
+    <td><img src="https://github.com/memari-majid/image_generation/blob/master/output/recall.png" alt="recall" width="400"/></td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>GAN Runtime</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/elapsed_time_plot.png" alt="GAN" width="400"/>
+    </td>
+    <td>
+      <h3>VAE Runtime</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/elapsed_time_plot.png" alt="VAE" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h3>FID Scores</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github.com/memari-majid/image_generation/blob/master/output/fid_scores.png" alt="FID" width="800"/></td>
+  </tr>
+</table>
+
+
 # Interpretation
 ### Generative Models
 Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) are two popular generative models used for tasks such as image generation, representation learning, and unsupervised learning. They have different approaches to learning data distributions, which result in different strengths and weaknesses.
