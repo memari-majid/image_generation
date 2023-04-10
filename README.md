@@ -11,12 +11,6 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE Loss Functions
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
 
-<div style="display:flex;">
-  <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400" style="float:left;"/>
-  <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400" style="float:left;"/>
-</div>
-
-
 ### OCR Metrics
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/test_accuracy_vs_epoch.png" alt="test accuracy" width="400""/>
 
@@ -44,3 +38,5 @@ GAN training is often more difficult and unstable, as it requires careful balanc
 The generated samples from GANs tend to be sharper and more visually appealing, but they might not always cover the entire data distribution (i.e., mode collapse).
 ### VAEs are faster than GANs
 Regarding computational speed, the main reason why VAEs can be faster than GANs is their training procedure. VAEs use backpropagation and can be trained with standard optimization algorithms, which leads to a more stable and straightforward training process. In contrast, GANs require the simultaneous training of two networks, and finding the right balance between the generator and discriminator can be challenging. The adversarial training process can be unstable and may require more iterations, hyperparameter tuning, or architectural adjustments to achieve satisfactory results.
+
+
