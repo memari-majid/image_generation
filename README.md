@@ -14,6 +14,21 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE Loss Functions
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
 
+
+<table>
+  <tr>
+    <td>
+      <h3>GAN Loss Functions</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400"/>
+    </td>
+    <td>
+      <h3>VAE Loss Functions</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
 ### OCR Metrics
 <table>
   <tr>
