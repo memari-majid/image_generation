@@ -8,23 +8,17 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif)
 ## GAN Loss Functions
-<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400" style="float:left;"/>
-
+<img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400">
 ## VAE Loss Functions
-<img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400" style="float:left;"/>
-
+<img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400">
 ### OCR Metrics
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/test_accuracy_vs_epoch.png" alt="test accuracy" width="400"/>
-
 ### GAN Runtime
 <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/elapsed_time_plot.png" alt="GAN" width="400"/>
-
 ### VAE Runtime
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/elapsed_time_plot.png" alt="VAE" width="400"/>
-
 ### FID Scores
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/fid_scores.png" alt="FID" width="800"/>
-
 # Interpretation
 ### Generative Models
 Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) are two popular generative models used for tasks such as image generation, representation learning, and unsupervised learning. They have different approaches to learning data distributions, which result in different strengths and weaknesses.
@@ -40,7 +34,6 @@ GAN training is often more difficult and unstable, as it requires careful balanc
 The generated samples from GANs tend to be sharper and more visually appealing, but they might not always cover the entire data distribution (i.e., mode collapse).
 ### VAEs are faster than GANs
 Regarding computational speed, the main reason why VAEs can be faster than GANs is their training procedure. VAEs use backpropagation and can be trained with standard optimization algorithms, which leads to a more stable and straightforward training process. In contrast, GANs require the simultaneous training of two networks, and finding the right balance between the generator and discriminator can be challenging. The adversarial training process can be unstable and may require more iterations, hyperparameter tuning, or architectural adjustments to achieve satisfactory results.
-
 ### Saliency Maps
 <img src="https://github.com/memari-majid/image_generation/blob/master/saliency_maps_cvae.png" alt="Saliency Maps" width="2000"/>
 
