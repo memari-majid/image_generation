@@ -11,6 +11,28 @@ This GitHub repository contains code and resources for a comparative analysis of
 <table>
   <tr>
     <td>
+      <h3>Real</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/real.png" alt="Real" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>GAN</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif" alt="GAN" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>VAE</h3>
+      <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif" alt="VAE" />
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>
       <h3>GAN Loss Functions</h3>
       <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/loss_plot.png" alt="GAN Loss Function" width="400"/>
     </td>
