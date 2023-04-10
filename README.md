@@ -12,16 +12,8 @@ Setup and Installation
 To run this project, follow these steps:
 
 
-<<<<<<< HEAD
-### Results
-
-
-### Acknowledgments
-We would like to express our gratitude to Dr. Lo'ai Ali Tawalbeh and his team for providing us with the Arabic Handwritten Digits Dataset. We also acknowledge the foundational work of Ian Goodfellow and his colleagues in their paper on Generative Adversarial Networks and Diederik P Kingma and Max Welling for their work on Auto-Encoding Variational Bayes.
-=======
 ### GAN
 ![GAN](https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif)
 ### VAE
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif)
 
->>>>>>> 2577127db072ea25f584a8014e32779574e75285
