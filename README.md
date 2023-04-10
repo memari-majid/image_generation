@@ -9,25 +9,26 @@ This GitHub repository contains code and resources for a comparative analysis of
 ![VAE](https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif)
 
 <table>
-  <tr>
+  <tr style="background-color: white;">
     <td>
       <h3>Real</h3>
       <img src="https://github.com/memari-majid/image_generation/blob/master/real.png" alt="Real" />
     </td>
   </tr>
-  <tr>
+  <tr style="background-color: white;">
     <td>
       <h3>GAN</h3>
       <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif" alt="GAN" />
     </td>
   </tr>
-  <tr>
+  <tr style="background-color: white;">
     <td>
       <h3>VAE</h3>
       <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/figs/animation.gif" alt="VAE" />
     </td>
   </tr>
 </table>
+
 
 
 <table>
