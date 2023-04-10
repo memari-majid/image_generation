@@ -1,8 +1,6 @@
 # Comparative Analysis of CVAE and CGAN for Image Generation to Improve OCR Systems
 This GitHub repository contains code and resources for a comparative analysis of two popular deep learning frameworks, Conditional Variational Autoencoders (CVAE) and Conditional Generative Adversarial Networks (CGAN), for generating synthetic images to enhance Optical Character Recognition (OCR) systems. The goal is to investigate the performance of these models and determine their effectiveness in improving OCR accuracy.
 # Results
-### Real
-<img src="https://github.com/memari-majid/image_generation/blob/master/real_images.png" alt="GAN Loss Function" width="400"/>
 ### GAN
 ![GAN](https://github.com/memari-majid/image_generation/blob/master/acgan/figs/animation.gif)
 ### VAE
@@ -13,8 +11,10 @@ This GitHub repository contains code and resources for a comparative analysis of
 ### VAE Loss Functions
 <img src="https://github.com/memari-majid/image_generation/blob/master/cvae/loss_plot.png" alt="VAE" width="400"/>
 
+
 ### OCR Metrics
 <img src="https://github.com/memari-majid/image_generation/blob/master/output/test_accuracy_vs_epoch.png" alt="test accuracy" width="400""/>
+
 
 ### GAN Runtime
 <img src="https://github.com/memari-majid/image_generation/blob/master/acgan/elapsed_time_plot.png" alt="GAN" width="400""/>
